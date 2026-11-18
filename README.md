@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I’m Chloe 👋
 
-<!--
-**clezhu/clezhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**University of Newcastle Computer Science Student // Software Developer**
 
-Here are some ideas to get you started:
+I’m a University of Newcastle student in Australia. I build websites, learning tools, create videos, anything that makes an impact!.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects 🚀
+
+- [**Studeroo**](REPO_URL_STUDEROO) — A web app for HSC maths revision with past-paper questions, video explanations, and interactive walkthroughs that let students work through a solution one step at a time. [**Live site ↗**](https://studeroo.com.au/)
+- [**Hanzi Garden**](REPO_URL_HANZI_GARDEN) — A Mandarin reading app that teaches common Chinese characters through short stories. Learners can reveal pinyin when they get stuck, review the characters they needed help with, and then try the story again. [**Live site ↗**](https://chinese-reading.chinese-reading.workers.dev)
+- [**ExplainedIn4K Instagram**](https://www.instagram.com/explainedin4k/) — An instagram page with 30K+ followers loaded with 2D and 3D animated physics explanations.
+
+## Skills ⚒️
+
+**Languages:** TypeScript, JavaScript, Python, SQL  
+**Web development:** React, React Router, Tailwind CSS, Cloudflare Workers, D1  
+**Tools:** Git, GitHub, Playwright, Remotion, Blender
+
+If you’d like to chat about a project or have a cool idea you want to build, let's [get in touch](mailto:chloe.chenge.zhu@gmail.com)!
