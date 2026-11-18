@@ -16,4 +16,4 @@ I’m a University of Newcastle student in Australia. I build websites, learning
 **Web development:** React, React Router, Tailwind CSS, Cloudflare Workers, D1  
 **Tools:** Git, GitHub, Playwright, Remotion, Blender
 
-If you’d like to chat about a project or have a cool idea you want to build, let's [get in touch](mailto:chloe.chenge.zhu@gmail.com)!
+If you’d like to chat about a project or have a cool idea you want to build, contact me at [chloe.chenge.zhu@gmail.com](mailto:chloe.chenge.zhu@gmail.com) and let's get in touch!
