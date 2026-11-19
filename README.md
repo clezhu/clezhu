@@ -2,7 +2,7 @@
 
 **University of Newcastle Computer Science Student // Software Developer**
 
-I’m a University of Newcastle student in Australia. I build websites, learning tools, create videos, anything that makes an impact!.
+I’m a University of Newcastle student in Australia. I build websites, learning tools, create videos, anything that makes an impact!
 
 ## Projects 🚀
 
